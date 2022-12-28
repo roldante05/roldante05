@@ -1,5 +1,6 @@
 <h1 align="center">Hola 👋, soy Dante Roldan</h1>
-<h3 align="center">Apasionado por el Desarrollo Web, de Bs As, Argentina</h3>
+<h3 align="center">Apasionado por el Desarrollo Web</h3>
+<h3 align="center">Bs As, Argentina</h3>
 
 - 🌱 Actualmente estoy aprendiendo **React**
 

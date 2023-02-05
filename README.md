@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Dante Roldan </h1>
 <h3 align="center">Apasionado por el Desarrollo Web de Bs As, Argentina</h3>
 
-- 🌱 Actualmente estoy aprendiendo **React.Js**
+- 🌱 Actualmente  aprendiendo y realizando **Proyectos webs**
 
 - 👨‍💻 Todos mis proyectos están disponibles en: [https://danterol.000webhostapp.com/portfolio/index.php](https://danterol.000webhostapp.com/portfolio/index.php)
 

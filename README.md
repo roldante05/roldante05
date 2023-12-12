@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Dante Roldan </h1>
 <h3 align="center">Apasionado por el Desarrollo Web de Bs As, Argentina</h3>
 
-- 🌱 Actualmente  aprendiendo y realizando **Proyectos webs**
+- 🌱 Actualmente  trabajando en **CyberArg Sistemas**
 
 - 👨‍💻 Todos mis proyectos están disponibles en: [https://portfolio-dante.vercel.app/](https://portfolio-dante.vercel.app/)
 
